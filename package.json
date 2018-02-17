@@ -1,0 +1,23 @@
+{
+  "name": "super-duper-hangman",
+  "version": "1.0.0",
+  "description": "hangman packages",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idaselma3025/super-duper-hangman.git"
+  },
+  "author": "Ida Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idaselma3025/super-duper-hangman/issues"
+  },
+  "homepage": "https://github.com/idaselma3025/super-duper-hangman#readme"
+}
